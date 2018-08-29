@@ -1,7 +1,7 @@
 # Train Times
-Random Adventure Generator
+Train schedule and arrival times
 ## Description
-The random adventure generator app will allow you to click a button and randomly generate an adventure destination in the state of Utah. You can select from three different levels, easy, medium, and hard. The randomizer will produce a result with a clickable link to a description and location. Users will also be able to enter in their own adventures that will add to the randomizer database.
+Train Times allows you to enter in train information into the form and in return it will tell you how often, when the next, and minutes to arrival of the next train.
 ## Getting Started
 ### Dependencies
 * "moment.js": "^2.22.2",
