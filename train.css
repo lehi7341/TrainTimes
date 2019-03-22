@@ -1,0 +1,36 @@
+#trainNameInput {
+  width: 350px;
+}
+
+#destinationInput {
+  width: 350px;
+}
+
+#firstTrainInput {
+  width: 310px;
+}
+
+#frequencyInput {
+  width: 125px;
+}
+
+body {
+  background-color: black;
+}
+
+td {
+  color: white;
+}
+
+label {
+  color: white;
+}
+
+th {
+  color: white;
+}
+
+img {
+  height: 130px;
+  width: 475px;
+}
